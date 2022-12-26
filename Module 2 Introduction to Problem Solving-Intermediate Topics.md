@@ -77,6 +77,7 @@
 > 8. given N array element check if all are distinct?
 > 9. validate a Sudoko
 
+***
 
 ## Day 20 Hashing Doubts
 > 1. [Anagram] 2 strings A &  are said to be anagrams of each other if they are permutation of each other.
@@ -88,6 +89,7 @@
 - we need to have only 2 distinct numbers
 - both distinct elements should have same frequency
 
+***
 
 ## Day 21 Problem Solving 2
 > 1. prefix sum
