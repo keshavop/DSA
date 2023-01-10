@@ -171,3 +171,14 @@ int main()
 > 2. Print all anti diagonals
 > 3. Get no. of set bits from 0 to 20
 > 4. Count no of set bits from 1 to N
+
+## Day 14 Problem on Arrays
+> 1. Subsequence
+- Given a string s, containing only lowercase characters, determine how many subsequences exist.
+  
+> 2. Closet Min - Max
+- Given an array find the length of smaller sub array which contains both min and max elements of array within subarray
+
+> 3. Max length consecutive 1's
+- Given a binary string of length N. It is allowd to do almost ! swap between 0 and 1.
+- The task is to find the length of the longest consecutive 1's that can be achieved.
