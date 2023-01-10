@@ -175,10 +175,19 @@ int main()
 ## Day 14 Problem on Arrays
 > 1. Subsequence
 - Given a string s, containing only lowercase characters, determine how many subsequences exist.
-  
+
 > 2. Closet Min - Max
 - Given an array find the length of smaller sub array which contains both min and max elements of array within subarray
 
 > 3. Max length consecutive 1's
 - Given a binary string of length N. It is allowd to do almost ! swap between 0 and 1.
 - The task is to find the length of the longest consecutive 1's that can be achieved.
+
+## Day 15 Introduction to Hashing
+> 1. Find frequency of numbers
+- given N array elements and Q queries, for each query find the frequency of each element in array
+
+> 2. Find the first non-repeating element
+> 3. Find the intersection of 2 arrays (Both arrays will have distinct elements)
+> 4. Given N array elements find number of distinct elements
+> 5. Given N array elements check if there exists a pair(i,j) such that i!=j (arr[i]+arr[j]=k)
