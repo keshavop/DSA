@@ -4,4 +4,4 @@
 2. Big – Θ (Big Theta)
 3. Big Omega
 
-![](0notesAsset/difftimecomplexity.png)
+![](../0notesAsset/difftimecomplexity.png)
