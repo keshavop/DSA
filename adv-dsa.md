@@ -25,3 +25,18 @@
 
 ***
 
+## Day 47 Sorting 2
+> Comparator Basics
+>1. given N array ele, sort them is descending order
+>2. given N array elements sort them based on increasing no of factors. If 2 elements have same factors one with greatest value should come first.
+>3. Given N strings, we can concatenate in any order to get the maximum number
+- Numbers are in string format
+>4. Given 2 arrays A[N] & B[M] calculate no of pairs i,j such that A[i]>B[j]
+>5. gieven A[N], find no of pairs i,j such that i < j  && A[i]>A[j]
+- (Inversion Count)
+- Dating Algorithm
+>6. Count Sort
+>OPTIONAL
+- Dating Algorithm
+
+***
