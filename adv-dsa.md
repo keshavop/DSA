@@ -40,3 +40,15 @@
 - Dating Algorithm
 
 ***
+
+## Day 48 Sorting 3
+>1. given N array elements, re-arrange the array such that 
+- arr[0] should go its sorted position
+- All elements <=arr[0] go to left side of arr[0] 
+- All elements > arr[0] go to right side of arr[0]
+>2. given N array elements & subarray [s,e] re-arrange subarray [s,e]
+- Quick Sort
+>3. Insertation Sort
+>4. Radix Sort
+
+***
