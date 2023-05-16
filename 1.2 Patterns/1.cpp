@@ -21,7 +21,7 @@ using namespace std;
 int main()
 {
     int n;
-    cin>>>n;
+    cin>>n;
     printSquare(n);
     return 0;
 }
